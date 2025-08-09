@@ -1,2 +1,2 @@
 # Budget-Tracker-FLET-framework
-A simple budget tracker flet app to demonstrate flet framework +python usability. 
+Developed using only FLET framework. If you must, please read the comments in the source code.
